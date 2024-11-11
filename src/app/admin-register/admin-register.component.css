@@ -1,0 +1,31 @@
+.card {
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.form-control-lg {
+  font-size: 16px;
+}
+
+h2 {
+  color: #343a40;
+  font-weight: 600;
+}
+
+.btn {
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 25px;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+}
+
+.btn-dark {
+  background-color: #343a40;
+}
+
+.alert-danger {
+  font-size: 14px;
+}
